@@ -1,0 +1,5 @@
+com/booktracker/dao/DatabaseManager.class
+com/booktracker/exception/BookTrackerException.class
+com/booktracker/dao/ReadingSessionDao.class
+com/booktracker/dao/impl/ReadingSessionDaoImpl.class
+com/booktracker/model/ReadingSession.class

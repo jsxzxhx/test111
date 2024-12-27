@@ -1,0 +1,5 @@
+/usr/src/app/src/main/java/com/booktracker/dao/ReadingSessionDao.java
+/usr/src/app/src/main/java/com/booktracker/model/ReadingSession.java
+/usr/src/app/src/main/java/com/booktracker/dao/impl/ReadingSessionDaoImpl.java
+/usr/src/app/src/main/java/com/booktracker/exception/BookTrackerException.java
+/usr/src/app/src/main/java/com/booktracker/dao/DatabaseManager.java
